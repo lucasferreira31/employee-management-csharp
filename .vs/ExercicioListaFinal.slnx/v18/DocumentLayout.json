@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Curso programa\u00E7\u00E3o .NET -exercicios\\ExercicioListaFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{290D7CFD-040B-6837-A15C-93AC49FAED03}|ExercicioListaFinal\\ExercicioListaFinal.csproj|d:\\curso programa\u00E7\u00E3o .net -exercicios\\exerciciolistafinal\\exerciciolistafinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290D7CFD-040B-6837-A15C-93AC49FAED03}|ExercicioListaFinal\\ExercicioListaFinal.csproj|solutionrelative:exerciciolistafinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290D7CFD-040B-6837-A15C-93AC49FAED03}|ExercicioListaFinal\\ExercicioListaFinal.csproj|d:\\curso programa\u00E7\u00E3o .net -exercicios\\exerciciolistafinal\\exerciciolistafinal\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290D7CFD-040B-6837-A15C-93AC49FAED03}|ExercicioListaFinal\\ExercicioListaFinal.csproj|solutionrelative:exerciciolistafinal\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Curso programa\u00E7\u00E3o .NET -exercicios\\ExercicioListaFinal\\ExercicioListaFinal\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioListaFinal\\Program.cs",
+              "ToolTip": "D:\\Curso programa\u00E7\u00E3o .NET -exercicios\\ExercicioListaFinal\\ExercicioListaFinal\\Program.cs",
+              "RelativeToolTip": "ExercicioListaFinal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T17:16:55.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Curso programa\u00E7\u00E3o .NET -exercicios\\ExercicioListaFinal\\ExercicioListaFinal\\Employee.cs",
+              "RelativeDocumentMoniker": "ExercicioListaFinal\\Employee.cs",
+              "ToolTip": "D:\\Curso programa\u00E7\u00E3o .NET -exercicios\\ExercicioListaFinal\\ExercicioListaFinal\\Employee.cs",
+              "RelativeToolTip": "ExercicioListaFinal\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T17:16:52.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
